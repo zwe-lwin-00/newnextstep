@@ -1,6 +1,18 @@
 // Language dictionary with translations for different elements
 const languageContent = {
     en: {
+          lfjaform:"Job Application Form",
+          lffirstname:"First Name",
+          lflastname:"Last Name",
+          lfemail:"Email",
+          lfphone:"Phone Number",
+          applyforapositionbtn:"Apply for a position",
+
+
+
+
+        lfindyourjob:"Find your job better and faster",
+        findyourpassion:"Find your passion and achieve success",
         lffirstname:"First Name",
         lflastname:"Last Name",
         lfemail:"Email",
@@ -73,6 +85,8 @@ const languageContent = {
         lfprivacy:"Privacy Policy",
     },
     de: { 
+      lfindyourjob: "Finden Sie Ihren Job besser und schneller",
+      findyourpassion: "Finden Sie Ihre Leidenschaft und erreichen Sie Erfolg",
       lffirstname:"Vorname",
       lflastname:"Nachname",
       lfemail:"E-Mail",
@@ -146,6 +160,8 @@ const languageContent = {
   }
   ,
     ja: { 
+      lfindyourjob: "仕事をより良く、より早く見つける",
+      findyourpassion: "情熱を見つけ、成功を収める",
       lffirstname:"名",
       lflastname:"姓",
       lfemail:"メールアドレス",
@@ -219,6 +235,8 @@ const languageContent = {
   }
   ,
     th: { 
+      lfindyourjob: "ค้นหางานของคุณให้ดีขึ้นและเร็วขึ้น",
+      findyourpassion: "ค้นหาความหลงใหลของคุณและประสบความสำเร็จ",
       lffirstname:"ชื่อจริง",
       lflastname:"นามสกุล",
       lfemail:"อีเมล",
@@ -292,6 +310,8 @@ const languageContent = {
   }
   ,
     zh: { 
+      lfindyourjob: "更快更好地找到工作",
+      findyourpassion: "找到你的激情并取得成功",
       lffirstname:"名字",
       lflastname:"姓氏",
       lfemail:"电子邮件",
